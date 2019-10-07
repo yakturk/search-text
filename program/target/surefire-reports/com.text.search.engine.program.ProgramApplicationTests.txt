@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.text.search.engine.program.ProgramApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.341 s - in com.text.search.engine.program.ProgramApplicationTests
